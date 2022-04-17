@@ -1,0 +1,17 @@
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Dal.deps.json
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Dal.runtimeconfig.json
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Dal.dll
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Dal.pdb
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.csproj.AssemblyReference.cache
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.AssemblyInfoInputs.cache
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.AssemblyInfo.cs
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.csproj.CoreCompileInputs.cache
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.dll
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\refint\PixelProje.Dal.dll
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.pdb
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.genruntimeconfig.cache
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\ref\PixelProje.Dal.dll
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Ent.dll
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\bin\Debug\net6.0\PixelProje.Ent.pdb
+D:\Projeler\Udemy Projeler\PixelProje\PixelProje.Dal\obj\Debug\net6.0\PixelProje.Dal.csproj.CopyComplete
